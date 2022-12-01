@@ -1,9 +1,9 @@
 Hi, I’m William
 - 👀 I’m interested in Full Stack Development 
-- 👩‍🎓 Análise e Desenvolvimento de Sistemas 
+- 👩‍🎓 Student of Analysis and systems development
 - 👩‍💻 Learning Languages: HTML5,CSS3, Javascript,Python, C# ,PHP 
 - 👩‍💻 Learning Frameworks: .NET, Django ,Laravel
-- 👩‍💻 Learning DB : Pandas, Anaconda
+- 👩‍💻 Learning DB : Pandas GDB,
 - 
 -  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/william-ferreira-dantas-neto-7849b8114)
 
