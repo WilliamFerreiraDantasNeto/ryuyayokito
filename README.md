@@ -17,7 +17,7 @@ Hi, I’m William
       </br>
       </br>
       
-      <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "/>
+      <img align="center" alt="JAVA" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
       <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" "/>
 
   </div><br>
