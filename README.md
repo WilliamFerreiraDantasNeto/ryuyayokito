@@ -3,7 +3,7 @@ Hi, I’m William
 - 👩‍🎓 Student of Analysis and systems development
 - 👩‍💻 Learning Languages: HTML5, CSS3, Javascript/Typescript, Python, C#, PHP, Java
 - 👩‍💻 Learning Frameworks: .NET, Django ,Laravel
-- 👩‍💻 Learning DB : Pandas GDB,
+- 👩‍💻 Learning DB : MySQL, Postgres,
 
 
 -  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/william-ferreira-dantas-neto-7849b8114)
@@ -76,6 +76,14 @@ Hi, I’m William
    <tr align="center">
       <td colspan="4">
          <strong>DataBase</strong>
+      </td>
+   </tr>
+   <tr align="center">
+      <td colspan="2">
+         <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+      </td>
+      <td colspan="2">
+         <img align="center" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
       </td>
    </tr>
    
