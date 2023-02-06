@@ -86,6 +86,17 @@ Hi, I’m William
          <img align="center" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
       </td>
    </tr>
+    <tr align="center">
+      <td colspan="4">
+         <strong>GameDev</strong>
+      </td>
+   </tr>
+    <tr align="center">
+      <td colspan="4">
+         <img align="center" alt="MySQL" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+       </td>
+   </tr>
+   
    
 </table>
 </div>
